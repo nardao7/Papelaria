@@ -2,7 +2,9 @@
 
 # Começando 🚀
 
+# Tecnologicas
 
+HTML & CSS
 
 ```
 CodeSandBox
